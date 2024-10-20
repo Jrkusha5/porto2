@@ -530,6 +530,9 @@ img {
 .skills__react {
   width: 85%;
 }
+.skills__flutter {
+  width: 80%;
+}
 
 .skills__php {
   width: 78%;
